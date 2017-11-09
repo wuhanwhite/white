@@ -1,0 +1,230 @@
+/*
+	  ============================================================
+		   Font Color
+	  ============================================================
+*/
+/*Top 02 Bar Style*/
+.gt_top2_wrap .gt_top_element ul li:hover a,
+.gt_hdr_2_ui_element>ul>li:hover> a,
+.gt-user-login>a:hover,
+/*navigation css*/
+/*Banner CSS*/
+.gt_banner_text h2,
+/*Index 02 Search Wrap Style*/
+/*Get Started Services Wrap Style*/
+.get_icon_des a:hover,
+/*Welcome to Edu-Skill Wrap Style*/
+.get_started_content_wrap ul li:before,
+/*Explore Courses 02 Wrap Style*/
+.gt_exp_hvr_des_lnk>a:hover,
+/*See More Button Wrap Style*/
+/*Team 02 Wrap Start*/
+.gt_team2_align_center>ul.gt_scl_icon li:hover a,
+/*Testimonial 02 Css*/
+.gt_testimonial_des h5 > a:hover,
+/*Blog and Events Wrap CSS*/
+ul.gt_blog_meta li:hover i,
+ul.gt_blog_meta li:hover>a,
+.gt_news_des_wrap h6>a:hover,
+/*News Letter 02 Widgets*/
+/*Footer 02 Css*/
+.gt_foo2_link>ul>li:before,
+.gt_foo2_link>ul>li:hover>a,
+/*Col 3*/
+.foo_news_content>a:hover,
+/*Col 4*/
+ul.gt_team1_contact_info li i,
+ul.gt_team1_contact_info li:hover a,
+/*Flicker CSS*/
+/*Why Chooose Us 02 Css*/
+.flex-direction-nav li a,
+.gt_chooose_2_list_des > h6 > a:hover
+{
+	color:#0177b5;	
+}
+/*
+	  ============================================================
+		   Background Color
+	  ============================================================
+*/
+/*Top 02 Bar Style*/
+.gt_hdr2_wrap .gt_search_wrap>span.search-fld:hover,
+/*navigation css*/
+.gt_navigation2 ul li:before,
+.gt_mobile_menu>span.icon-bar,
+.gt_mobile_menu:hover,
+/*Banner CSS*/
+.gt_banner_text>a:hover,
+.gt_banner .swiper-button-next,
+.gt_banner .swiper-button-prev,
+/*Index 02 Search Wrap Style*/
+.gt_cat_search .chosen-container .chosen-results li.highlighted,
+.gt_cat_search input[type="submit"]:hover,.gt_cat_search button:hover,
+/*Get Started Services Wrap Style*/
+/*Welcome to Edu-Skill Wrap Style*/
+/*Explore Courses 02 Wrap Style*/
+/*See More Button Wrap Style*/
+.gt_see_more_btn>a,
+/*Team 02 Wrap Start*/
+.gt_team2_des_wrap,
+.gt_team2_slider .owl-dots .owl-dot.active,
+.gt_team2_slider .owl-dots .owl-dot:hover,
+/*Testimonial 02 Css*/
+.gt_testimonial_slider .owl-dots .owl-dot.active,
+.gt_testimonial_slider .owl-dots .owl-dot:hover,
+/*Blog and Events Wrap CSS*/
+.gt_latest_news_wrap figure:before,
+.gt_news_figcaption ul li:hover a,
+.gt_latest_news_wrap:hover .gt_news_des_wrap>span,
+/*News Letter 02 Widgets*/
+.gt_newsletter02_bg,
+/*Footer 02 Css*/
+/*Col 3*/
+/*Col 4*/
+.gt_copyright_wrap.copyright2_bg,
+/*Flicker CSS*/
+.gt_fliker_slider .owl-controls .owl-nav div:hover,
+/*Why Chooose Us 02 Css*/
+.gt_choose2_list_wrap ul li:hover .gt_choose2_icon,
+.gt_hdr2_wrap .gt_mobile_menu
+{
+	background-color:#0177b5;	
+}
+/*
+	  ============================================================
+		   Border Color
+	  ============================================================
+*/
+/*Top 02 Bar Style*/
+/*navigation css*/
+/*Banner CSS*/
+.gt_banner_text>a:hover,
+/*Index 02 Search Wrap Style*/
+/*Get Started Services Wrap Style*/
+/*Welcome to Edu-Skill Wrap Style*/
+/*Explore Courses 02 Wrap Style*/
+/*See More Button Wrap Style*/
+/*Team 02 Wrap Start*/
+.gt_team2_slider .owl-dots .owl-dot.active,
+.gt_team2_slider .owl-dots .owl-dot:hover,
+/*Testimonial 02 Css*/
+.gt_testimonial_slider .owl-dots .owl-dot.active,
+.gt_testimonial_slider .owl-dots .owl-dot:hover,
+/*Blog and Events Wrap CSS*/
+.gt_latest_news_wrap:hover,
+.gt_news_figcaption ul li:hover a,
+/*News Letter 02 Widgets*/
+/*Footer 02 Css*/
+/*Col 3*/
+/*Col 4*/
+/*Flicker CSS*/
+.gt_fliker_slider .owl-controls .owl-nav div:hover,
+/*Why Chooose Us 02 Css*/
+.gt_choose2_list_wrap ul li:hover .gt_choose2_icon
+{
+	border-color:#0177b5;	
+}
+/*
+	  ============================================================
+		   Transaction Effect
+	  ============================================================
+*/
+/*Top 02 Bar Style*/
+.search-fld,
+.search-wrapper-area,
+.gt_top2_wrap .gt_top_element ul li a,
+.gt_hdr_2_ui_element>ul>li> a,
+.gt-user-login>a,
+.gt_hdr_2_ui_element ul li ul,
+.gt_hdr_2_ui_element ul li ul li,
+/*navigation css*/
+.gt_mobile_menu,
+.icon-bar,
+.gt_navigation2 ul li,
+.gt_navigation2 ul li:before,
+.gt_navigation2 ul li a,
+/*Banner CSS*/
+.gt_banner_text>a,
+.gt_banner .swiper-button-next,
+.gt_banner .swiper-button-prev,
+/*Index 02 Search Wrap Style*/
+.gt_cat_search .chosen-container .chosen-results li,
+.gt_cat_search input[type="submit"],.gt_cat_search button,
+/*Get Started Services Wrap Style*/
+.get_started_services>i,
+.get_icon_des a,
+.get_icon_des>a>i,
+/*Welcome to Edu-Skill Wrap Style*/
+/*Explore Courses 02 Wrap Style*/
+.gt_expl_course_wrap,
+.gt_exp_course_hdg,
+.gt_exp_hvr_des,
+.gt_exp_hvr_des_lnk>a,
+.gt_expl_course_tag,
+/*See More Button Wrap Style*/
+.gt_see_more_btn>a,
+/*Team 02 Wrap Start*/
+.gt_team2_align_center>ul.gt_scl_icon li:hover a,
+.gt_team2_slider .owl-dots .owl-dot.active,
+.gt_team2_slider .owl-dots .owl-dot:hover,
+/*Testimonial 02 Css*/
+.gt_testimonial_slider .owl-dots .owl-dot.active,
+.gt_testimonial_slider .owl-dots .owl-dot:hover,
+.gt_testimonial_des h5 > a,
+/*Blog and Events Wrap CSS*/
+.gt_latest_news_wrap,
+.gt_latest_news_wrap figure:before,
+.gt_news_figcaption,
+.gt_news_figcaption ul li a,
+ul.gt_blog_meta li>i,
+ul.gt_blog_meta li>a,
+.gt_news_des_wrap h6>a,
+.gt_news_des_wrap>span,
+/*News Letter 02 Widgets*/
+.gt_newsletter_form form button,
+/*Footer 02 Css*/
+/*Col 2*/
+.gt_foo2_link>ul>li:before,
+.gt_foo2_link>ul>li>a,
+/*Col 3*/
+.foo_news_content>a:hover,
+/*Col 4*/
+.gt_copyright_des span>a,
+ul.gt_scl_icon li a,
+ul.gt_team1_contact_info li a,
+/*Flicker CSS*/
+.gt_fliker_slider .owl-controls .owl-nav div,
+/*Why Chooose Us 02 Css*/
+.gt_chooose_2_list_des > h6 > a,
+.gt_choose2_list_wrap ul li,
+.gt_choose2_icon,
+.gt_fliker_img>a>img
+{
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-o-transition:all 0.3s ease-in-out;
+}
+/*
+	  ============================================================
+		   Shahdow Color
+	  ============================================================
+*/
+.gt_latest_news_wrap:hover{box-shadow:0px 3px 0px 0px #0177b5;}
+/*
+	  ============================================================
+		  Content Selection
+	  ============================================================
+*/
+::selection {
+    background: #0177b5;
+    color:#ffffff;
+}
+::-webkit-selection {
+    background: #0177b5;
+    color: #ffffff;
+}
+::-moz-selection {
+    background: #0177b5;
+    color: #ffffff;
+}

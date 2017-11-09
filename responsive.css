@@ -1,0 +1,272 @@
+/*============	Media 940Px Start ============ */
+@media screen and (min-width: 991px) and (max-width: 1199px) {
+	.gt_navigation>ul>li>a{padding: 21px 9px;font-size: 13px;}
+	ul.gt_event_meta li:last-child{padding-left: 0px;}
+	.gt_listing_share_wrap > button{margin-bottom: 10px;}
+	.gt_banner_service_wrap{margin-top: -90px;}
+	.gt_banner_service{padding: 20px 5px;min-height: 210px;}
+	.gt_blog_listing figure{width: 100%;height: 250px;}
+	.gt_blog_listing figure>img{width: 100%;}
+	.gt_blog_listing .gt_listing_des{width: 100%;}
+	.gt_advance_search{margin: 0px 30px 30px 0px;}
+	.gt_advance_search,.gt_explore_search.gt_clas_search{width: 48%;}
+	.gt_advacnce_search_wrap .gt_clas_search{margin-right: 0px;}
+	.gt_advacnce_search_wrap .gt_clas_search:nth-child(2){margin-bottom: 30px;}
+	.gt_advacnce_search_wrap .gt_clas_search:nth-child(3){margin-right: 30px;}
+	.gt_cd_mata_wrap > ul > li{float:left;width: 100%;border-bottom: 1px solid #cccccc;padding: 0px 0px 10px;margin: 0px 0px 10px;}
+	.gt_cd_mata_wrap > ul > li ul.gt_scl_icon li{float: left;margin-right: 10px;}
+	.gt_cd_mata_wrap > ul > li:last-child{padding: 0px;border: 0px;margin: 0px;}
+	.gt_cd_mata_wrap > ul > li:before{display: none;}
+	.gt_featured_course_list > a{width: 100%;border-radius: 0px;}
+	.gt_featured_course_list > a:first-of-type{border-radius: 0px;}
+	.gt_advacnce_search_wrap .gt_explore_search{width: 46%;}
+	.gt_search_type,.gt_search_format{width: 50%;}
+	.gt_search_format ul{width: 100%;text-align: center;}
+	.gt_event_grid_des > a:first-of-type{margin-bottom: 10px;}
+	.gt_d_profile_detail > ul > li{padding: 9px 0px;}
+	.gt_course_listing_wrap>figure{height: 250px;}
+	.gt_course_listing_wrap>figure>img{height: 100%;}
+	.gt_course_listing_wrap>figure,.gt_course_listing_des{width: 100%;}
+	.gt_course_listing_des{padding: 10px 0px;}
+	.gt_event_des h4>a{font-size: 18px;}
+	.gt_event_list_wrap>ul>li{padding: 0px 0px 15px;margin: 0px 0px 15px;}
+	/*Index 02 CSS*/
+	.gt_hdr_2_ui_element ul li ul{left: -20px;}
+	.gt_navigation2 > ul > li > a{padding: 30px 14px 31px;}
+	.gt_hdr2_wrap .gt_login_element{float: left;width: 100%;margin-top: 15px;text-align: center;}
+	.gt_slide_1{margin-right: -460px;}
+	.gt_slide_3{margin-left: -400px;}
+}
+/*============	Media 768Px Start ============ */ 
+@media (min-width: 768px) and (max-width: 990px) {
+	.gt_course_search form{width: 100%;}
+	.gt_choose_wrap span > i{height: 179px;}
+	.gt_choose_img{height: 250px;text-align: center;}
+	.gt_choose_img img{height: 100%;width: auto;}
+	.gt_advance_search{margin: 0px 30px 30px 0px;}
+	.gt_advance_search,.gt_explore_search.gt_clas_search{width: 47%;}
+	.gt_advacnce_search_wrap .gt_clas_search{margin-right: 0px;}
+	.gt_advacnce_search_wrap .gt_clas_search:nth-child(2){margin-bottom: 30px;}
+	.gt_advacnce_search_wrap .gt_clas_search:nth-child(3){margin-right: 30px;}
+	.gt_d_courses_wrap > figure{height: 177px;}
+	.gt_d_courses_wrap > figure>img{height: 100%;}
+	.gt_d_report_wrap{text-align: center;}
+	.gt_d_report_icon{float: none;display: inline-block;}
+	.gt_d_report_des{padding: 0px;float: left;width: 100%;margin-top: 15px;}
+	.gt_commming_soon h2{font-size: 80px;}
+	.gt_course_listing_wrap>figure{height: 250px;}
+	.gt_course_listing_wrap>figure>img{height: auto;}
+	.gt_course_listing_wrap>figure,.gt_course_listing_des{width: 100%;}
+	.gt_course_listing_des{padding: 10px 0px;}
+	.gt_event_img{text-align: center;}
+	.gt_event_img>img{width: auto;height: auto;display: inline-block;}
+	.gt_blog_listing .gt_listing_des{padding: 10px 15px 0px;}
+	.gt_listing_des>h6>a{font-size: 14px;margin-bottom: 10px;}
+	/*Index 02 Css*/
+	.gt_hdr2_wrap .gt_login_element{float: left;width: 100%;margin-top: 15px;text-align: center;}
+}
+/*============ Media 767Px Start ============ */
+@media (max-width: 990px) {
+	.gt_menu_bg .gt_logo{position: relative;}
+	.gt_menu_bg .gt_logo:before{content: "";position: absolute;bottom: 0px;left: -9999px;right: -9999px;border-bottom: 1px solid #333333;}
+	.gt_mobile_menu{display: block;}
+	.gt_navigation{padding: 12px 0;right: 30px;}
+	.gt_navigation>ul{display: none;position: absolute;top: 100%;right: 0px;width: 300px;background-color: #16171C;}
+	.gt_navigation ul ul{background-color: #ffffff;}
+	.gt_navigation ul ul li a{color: #949494;border-color: #cccccc;}
+	.gt_navigation ul ul ul{right: 0;top: 100%;left: 20px;margin: auto;}
+	.gt_navigation ul li{width: 100%;}
+	.gt_navigation > ul > li > a{padding: 15px;}
+	.gt_banner_service_wrap{margin: 30px 0px;}
+	.gt_choose_img{display: none;}
+	.gt_fact_bg{padding-bottom: 40px;}
+	.gt_number_count_wrap{margin: 0px 0px 30px;}
+	.gt_event_img{margin-bottom: 30px;}
+	.gt_newsletter_wrap{width: 100%;}
+	.gt_newsletter_inside_bg{background-image: none;text-align: center;}
+	.gt_widget_hdg,.gt_foo_contact_des{margin-bottom: 30px;}
+	.gt_foo_contact_wrap{margin-top: 20px;}
+	.gt_footer1_bg{padding-bottom: 40px;}
+	.gt_copyright_des{text-align: center;}
+	.gt_copyright_des p{margin-bottom: 10px;}
+	.gt_copyright_des p,.gt_copyright_des span{width: 100%;float: none;}
+	/*About Us*/
+	.gt_who_we_bg{padding-bottom: 40px;}
+	.gt_who_we_img,.gt_who_we_wrap .col-md-6,.get_started_content_wrap,.accor_outer_wrap{margin: 0px 0px 30px;}
+	.gt_who_we_wrap > p{margin-bottom: 30px;}
+	/*Blog Detail*/
+	.gt_resp_margn{margin-top: 30px;}
+	.gt_classes_table{display: none;}
+	.gt_table_small{display: block;}
+	.gt_contact_list{margin: 0px 0px 30px;}
+	.gt_cd_mata_wrap > ul > li{float:left;width: 100%;border-bottom: 1px solid #cccccc;padding: 0px 0px 10px;margin: 0px 0px 10px;}
+	.gt_cd_mata_wrap > ul > li ul.gt_scl_icon li{float: left;margin-right: 10px;}
+	.gt_cd_mata_wrap > ul > li:last-child{padding: 0px;border: 0px;margin: 0px;}
+	.gt_cd_mata_wrap > ul > li:before{display: none;}
+	.gt_advacnce_search_wrap .gt_explore_search{width: 46%;}
+	.gt_search_type,.gt_search_format{width: 50%;}
+	.gt_search_format ul{width: 100%;text-align: center;}
+	.gt-user-sidebar{margin-bottom: 30px;}
+	.gt_d_upload_area{padding-top: 10%;}
+	.gt_team_d_img{margin-bottom: 15px;}
+	/*Index 02*/
+	.gt_navigation2>ul{display: none;}
+	.gt_hdr2_wrap .gt_mobile_menu{float: right;margin-top: 20px;margin-right: 15px;}
+	.gt_hdr2_wrap .gt_mobile_menu:hover{background-color: #222;}
+	.gt_hdr2_wrap .gt_mobile_menu>span.icon-bar{background-color: #ffffff;}
+	.gt_hdr2_wrap .gt_navigation2>ul{width: 300px;top: 100%;right: 15px;position: absolute;z-index: 9999;background-color: #222222;}
+	.gt_navigation2 ul ul ul{left: 0px;top: 100%;}
+	.gt_navigation2 ul li{width:100%;}
+	.gt_navigation2 > ul > li > a{padding-top: 12px;padding-bottom: 12px;}
+	.gt_search02_wrap{margin-top: 30px;}
+	.get_started_video{margin-bottom: 30px;}
+	.ct_facts_bg{padding-bottom: 40px;}
+	ul.gt_facts2_wrap li{width: 50%;margin-bottom: 30px;}
+	.gt_choose02_wrap:before,.gt_choose02_wrap:after{width: 100%;}
+	.gt_choose02_wrap{background-size: cover;}
+	.gt_choose02_wrap .gt_hdg_1 h3,.gt_choose02_wrap .gt_hdg_1 p{color: #ffffff;}
+	.gt_choose02_wrap .gt_hdg_1 span.gt_hdg02_span{box-shadow: -51px 0 0 0 #ffffff;}
+	.gt_chooose_2_list_des{border-color: rgba(255,255,255,0.7);}
+	.gt_chooose_2_list_des h6>a,.gt_chooose_2_list_des p{color: #ffffff;}
+	.gt_latest_news_wrap,.gt_foo_logo_wrap,.gt_widget2_hdg{margin-bottom: 30px;}
+	.gt_flicker_outer_wrap{margin-top: 10px;}
+	.gt_hdr_2_ui_element ul li ul{left: -45px;}
+	.gt_choose_slider2_thumb{margin-bottom: 30px;}
+	.gt_newslettr_hdg{margin-bottom: 15px;}
+	.gt_banner_text h3{font-size: 25px;}
+	.gt_banner_text h2{font-size: 40px;}
+	.gt_slide_1{margin: -130px -310px 0 0;width: 450px;}
+	.gt_slide_3{margin: -130px 0 0 -280px;width: 450px;}
+}
+/*============ Media 767Px Start ============ */
+@media (max-width: 767px) {
+	.gt_top_element,.gt_login_element{width: 100%;text-align: center;}
+	.gt_login_element{border-top: 1px solid rgba(255, 255, 255, 0.65);}
+	.gt_course_search form,.gt_sort_wrap{width: 100%;}
+	.gt_course_search{margin-bottom: 10px;}
+	.gt_sort_wrap{margin: 0px;}
+	.gt_sort_wrap select{width: 80%;}
+	.gt_sort_wrap label{right: 20px;}
+	.gt_sort_wrap{text-align: center;}
+	.gt_event_list_wrap > ul > li{text-align: center;}
+	.gt_event_date{float: none;margin: auto auto 20px;}
+	.gt_event_des{width: 100%;padding: 0px;}
+	.gt_event_des > a{position: relative;}
+	.gt_blog_detail_wrap .gt_instructor_detail > figure{width: 100%;margin-bottom: 30px;}
+	.gt_blog_detail_wrap .gt_instructor_detail_des{margin: 0px;width: 100%;}
+	.gt_blog_listing figure{width: 100%;height: 250px;}
+	.gt_blog_listing figure>img{width: 100%;}
+	.gt_blog_listing .gt_listing_des{width: 100%;padding-bottom: 10px;}
+	.gt_blog_single_wrap ul.gt_scl_icon{margin-top: 10px;}
+	.gt_advance_search,.gt_explore_search.gt_clas_search{width: 100%;}
+	.gt_explore_search.gt_clas_search{margin-top: 15px;}
+	.gt_instructor_detail > figure{width: 100%;margin-bottom: 15px;}
+	.gt_instructor_detail_des{margin: 0px;width: 100%;}
+	.gt_cd_hdg_wrap > h5{width: 100%;margin-bottom: 15px;}
+	.gt_cd_rating{width: 100%;}
+	.gt_cd_rating > span{float: left;margin-left: 0px;margin-right: 15px;}
+	.gt_cd_rating ul.gt_rating_star{float: left;}
+	.gt_lec_detail,.gt_lec_title{margin-bottom: 10px;}
+	.gt_lec_detail,.gt_lec_title,.gt_lec_duration{width: 100%;}
+	.gt_lec_duration{text-align: left;}
+	.gt_advacnce_search_wrap .gt_explore_search{width: 100%;margin-top: 15px;}
+	.gt_search_type,.gt_search_format{width: 100%; margin-top: 15px;}
+	.gt_search_format ul{width: 100%;text-align: center;}
+	.gt_event_list>figure{width: 100%;overflow: hidden;}
+	.gt_event_list > figure > img{height: auto;}
+	.gt_event_list .gt_event_grid_des{width: 85%;}
+	.gt_event_counter{width: 15%;}
+	.gt_d_profile_detail{width: 100%;padding-left: 0px;}
+	.gt_d_profile_wrap > figure,.gt_d_courses_wrap > figure{width: 100%;}
+	.gt_d_classes_des{width: 100%;}
+	.gt_d_people_view{margin-bottom: 15px;}
+	.gt_team_d_point > ul{width: 100%;}
+	.gt_team_d_point > ul:first-of-type{margin-bottom: 20px;}
+	.gt_team_d_title,.gt_team_scl,.gt_team_d_des > ul > li{width: 100%;}
+	.gt_comming_soon_form{width: 100%;}
+	.gt_course_listing_wrap>figure,.gt_course_listing_des{width: 100%;}
+	.gt_course_listing_des{padding: 10px 0px;}
+	.gt_course_listing_des>h5{font-size: 18px;}
+	.gt_course_listing_des>ul.gt_event_meta{padding-right: 80px;}
+	ul.gt_event_meta li{font-size: 12px;}
+	/*Index 02*/
+	.gt_hdr_2_ui_element,.gt_login_element{width: 100%;text-align: center;margin-top: 15px;}
+	.gt_logo{/*border-bottom: 1px solid rgba(219, 219, 219, 0.5);*/}
+	.gt_navigation2{display: inline-block;float: none;}
+	.gt_navigation2 .gt_mobile_menu{margin-top: 8px;top: 10px;left: 20px;}
+	.gt_hdr2_wrap .gt_navigation2 > ul{top: 125%;right: -83px;}
+	.gt_banner_text{text-align: center;padding: 0px 70px;}
+	.gt_banner_text h3{font-size: 20px;}
+	.gt_banner_text h2{font-size: 30px;}
+	.gt_slide_1{margin: 0px;width: 100%;left: 0px;top: 10%}
+	.gt_slide_3{margin: 0px;width: 100%;left: 0px;top: 10%}
+	.gt_top_element ul li{width: 100%;}
+	.gt_top_wrap .gt_login_element{margin-top: 0px;}
+}
+
+/*============ Media 300Px Star ============ */
+@media (max-width: 480px) {
+	.gt_top_element ul li{border-right: 1px solid rgba(255, 255, 255, 0.65);border-bottom: 1px solid rgba(255, 255, 255, 0.65);}
+	.gt_top_element ul li:last-child{border-bottom: 0px;}
+	.gt_menu_bg{text-align: center;}
+	.gt_logo{width: 100%;}
+	.gt_cart_wrap,.gt_search_wrap,.gt_navigation{float: none;display: inline-block;}
+	.gt_navigation{padding: 0px;right: 0px;top: 12px;}
+	.gt_navigation>ul{right: -85px;top: 136%;}
+	.gt_cart_wrap .gt_cart_list{right: -174px;}
+	.gt_comment_wrap figure{width: 100%;text-align: center;margin-bottom: 15px;}
+	.gt_comment_wrap figure img{width: auto;}
+	.gt_comment_des{padding: 0px;width: 100%;float: left;text-align: center;}
+	.gt_comment_list_wrap ul ul{padding: 0px;}
+	ul.gt_event_meta li{width: 100%;padding-left: 0px;}
+	.gt_tag_wrap > ul{width: 100%;text-align: center;}
+	.gt_blog_single_wrap ul.gt_scl_icon{width: 100%;}
+	.gt_blog_detail_author{text-align: center;}
+	.gt_blog_detail_author figure{width: 100%;margin-bottom: 15px;}
+	.gt_blog_detail_author figure>img{width: auto;}
+	.gt_blog_author_cap{padding: 0px;width: 100%;float: left;}
+	.gt_blog_author_cap p{margin: 0px 0px 15px;}
+	ul.gt_scl_icon{width: 100%;}
+	.accor_outer_wrap .accord_hdg h6{font-size: 14px;}
+	.gt_course_dur_list,.gt_featured_course_list > ul > li > span{width: 100%;}
+	.gt_featured_course_list > a{width: 100%;border-radius: 0px;}
+	.gt_featured_course_list > a:first-of-type{border-radius: 0px;}
+	.gt_event_list .gt_event_grid_des{width: 100%;}
+	.gt_event_counter{width: 100%;}
+	.gt_event_counter ul.countdown li{width: 100px;display: inline-block;}
+	.gt_event_grid_des > a{padding: 8px 16px;}
+	.gt_lgin_tab_wrap{width: 100%;}
+	.switch{width: 80px;}
+	.slider > span{left: 30px;}
+	.slider:before{width: 15px;height: 15px;left: 7px;bottom: 8px;}
+	.switch input:checked + .slider::before{transform:translateX(55px);-moz-transform:translateX(55px);-webkit-transform:translateX(55px);}
+	.gt_d_report_wrap{text-align: center;}
+	.gt_d_report_icon{float: none;display: inline-block;}
+	.gt_d_report_des{padding: 0px;float: left;width: 100%;margin-top: 15px;}
+	.gt_commming_soon h4{font-size: 38px;}
+	.gt_commming_soon h2{font-size: 30px;}
+	.gt_commming_soon ul.countdown li{margin-left: 0px;margin-bottom: 10px;}
+	.gt_comming_soon_field input[type="submit"], .gt_comming_soon_field button{padding: 0 10px;font-size: 13px;}
+	.gt_comming_soon_field input[type="text"]{margin-right: 0px;padding: 8px 105px 8px 15px;}
+	.gt_404_02_wrap h1{font-size: 115px;}
+	.gt_4042_error_wrap > h4{font-size: 35px;}
+	.gt_4042_error_wrap > h5{font-size: 15px;line-height: 22px;}
+	.gt_hdr_2_ui_element > ul > li{border-left: 0px;}
+	.gt_hdr_2_ui_element > ul > li:first-child{margin-bottom: 10px;}
+	ul.gt_facts2_wrap li{width: 50%;}
+	.gt_banner_text{display: none;}
+	.gt_choose_wrap span{width: 100%;padding-bottom: 15px;}
+	.gt_choose_wrap span>i{display: inline-block;height: auto;}
+	.gt_choose_des{width: 100%;padding: 15px;float: left}
+	.gt_core_value_des figure{width: 100%;}
+	.gt_core_img_des{width: 100%;padding: 10px 0px;float: left;}
+	.gt_core_value_wrap ul li a{font-size: 14px;}
+	ul.gt_aboutus_list li{width: 100%;}
+	.gt_course_listing_des>a{font-size: 13px;padding: 10px 20px;}
+}
+/*============ Media 320Px Star ============ */
+@media (max-width: 320px) {
+	.gt_foo_instagram ul li:nth-child(3){margin-right: 15px;}
+	.gt_team_scl{display: none;}
+	.gt_top_element ul li{width: 100%;}
+}

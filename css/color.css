@@ -1,0 +1,625 @@
+/*
+	  ============================================================
+		   Font Color
+	  ============================================================
+*/
+/*Top Bar Style*/
+/*Cart Wrap Style*/
+/*Search Wrap Style*/
+.gt_search_remove_btn:hover,
+/*Navigation Style*/
+/*Banner CSS*/
+.gt_banner_text h2,
+/*Different Color CSS*/
+/*Banner Services Wrap CSS*/
+/*Explore All the Courses Wrap CSS*/
+.gt_course_search form input[type="search"]:focus + a,
+.gt_course_search form a:hover,
+.gt_course_des h5>a:hover,
+.gt_course_author>a:hover,
+.gt_course_bottom>a:hover,
+/*Explore All Courses Search Wrap CSS*/
+/*Why Choose Us Wrap CSS*/
+/*Campus Life and Activities Wrap CSS*/
+/*Facts and Figure Wrap CSS*/
+/*Meet Our Teacher Wrap CSS*/
+.gt_team_des h6>a:hover,
+/*Testimonial Wrap CSS*/
+.gt_testimonial_des h5 > a:hover,
+/*Upcomming Conference and Events Wrap CSS*/
+.gt_event_des h4>a:hover,
+/*News Letter Widgets*/
+/*Footer Col Widgets Css*/
+.gt_foo_about ul li:hover:before,
+.gt_foo_about ul li:hover a,
+/*Copyright Css*/
+.gt_copyright_des a:hover,
+/*Back to Top Style*/
+/*Sub Banner Wrap CSS*/
+/*Breadcrumb Wrap CSS*/
+.gt_breadcrumb_wrap ul li:hover a,
+/*Contact List Wrap CSS*/
+/*Contact Form Wrap CSS*/
+/*Who We Are Wrap CSS*/
+.gt_who_we_des h6>a:hover,
+/*Core Value Wrap Start Wrap Css Start*/
+ul.gt_aboutus_list li:before,
+/*Faqs and Terms Wrap CSS*/
+.accord_hdg span,
+/*Pagination Wrap CSS*/
+/*Advance Search Wrap CSS*/
+/*Campus History Wrap CSS*/
+.flex-direction-nav li a,
+/*Aside Wrap Css*/
+ul.gt_checkbox_list li:hover label,
+.aside_fea_course_des h6>a:hover,
+/*Course Detail Wrap CSS*/
+/*Aside 02 Wrap Style*/
+.gt_aside_category ul li:hover:before,
+.gt_aside_category ul li:hover a,
+.gt_aside_category ul li:hover span,
+.gt_dwnload_course>a:hover>i,
+.gt_dwnload_course>a:hover>span,
+.gt_play_btn>a:hover,
+/*Blog Grid Wrap CSS*/
+.gt_blog_des>h6>a:hover,
+/*Blog Listing Wrap CSS*/
+.gt_listing_des>h6>a:hover,
+/*Aside 03 Wrap Style*/
+/*Aside Newsletter*/
+/*Blog Single Wrap CSS*/
+/*Blog Detail Wrap CSS*/
+.gt_tag_wrap>ul>li>a:hover,
+.gt_comment_date>a:hover,
+.gt_comment_des h6 > a:hover,
+/*Classes Wrap Css*/
+/*Event Grid Wrap Css*/
+/*Event Detail Wrap Css*/
+.gt_event_d_date,
+/*Comming Soon Style*/
+.gt_comming_scl_wrap>p>a,
+/*Team Detail Style*/
+/*404 Page 02 Style*/
+.gt_4042_error_wrap>h4,
+.gt_404_02_wrap>a:hover,
+.gt_404_02_wrap h1 > span,
+/*Login and Register*/
+/*Course Listing Wrap CSS*/
+ul.gt_event_meta li:hover i,
+ul.gt_event_meta li:hover a,
+/*Dashboard Css*/
+.gt_d_classes_des>h6>a:hover,
+.gt_d_fav_courses ul.gt-shortlisted li .gt-text .gt-user-name,
+.gt_d_report_des>h6>a:hover,
+/*Shop Detail Page*/
+.gt_shop_rating_wrap ul li a,
+ul.gt_rating_start li a,
+.gt_product_des_wrap h5 > a:hover
+{
+	color:#2dcc70;	
+}
+/*
+	  ============================================================
+		   Background Color
+	  ============================================================
+*/
+.default-btn.style-two,
+.default-btn:hover,
+/*Top Bar Style*/
+/*Cart Item Wrap Style*/
+.gt_cart_wrap > a:hover,
+.gt_cart_btn:hover,
+.gt_cart_list figure i:hover,
+/*Search Wrap Style*/
+.gt_search_wrap > span.search-fld:hover,
+/*Navigation Style*/
+.gt_navigation ul li:before,
+.gt_mobile_menu,
+.gt_mobile_menu:hover span.icon-bar,
+.gt_navigation ul li a:before,
+/*Banner CSS*/
+.gt_banner_text>a:hover,
+.gt_banner .swiper-button-next,
+.gt_banner .swiper-button-prev,
+/*Different Color CSS*/
+.gt_bg_3,
+/*Banner Services Wrap CSS*/
+/*Explore All the Courses Wrap CSS*/
+.gt_course_des h5>a:before,
+.gt_courses_slider .owl-dots .owl-dot.active,
+.gt_courses_slider .owl-dots .owl-dot:hover,
+/*Explore All Courses Search Wrap CSS*/
+.gt_explore_search .chosen-container .chosen-results li.highlighted,
+.gt_explore_search input[type="submit"],
+.gt_explore_search button,
+/*Why Choose Us Wrap CSS*/
+.gt_choose_wrap.gt_bg_13:hover:before,
+/*Campus Life and Activities Wrap CSS*/
+.gt_gallery_style1:before,
+/*Facts and Figure Wrap CSS*/
+/*Meet Our Teacher Wrap CSS*/
+ul.gt_scl_icon li:hover a,
+.gt_teacher_slider .owl-dots .owl-dot.active,
+.gt_teacher_slider .owl-dots .owl-dot:hover,
+/*Testimonial Wrap CSS*/
+.gt_testimonial_slider .owl-dots .owl-dot.active,
+.gt_testimonial_slider .owl-dots .owl-dot:hover,
+/*Upcomming Conference and Events Wrap CSS*/
+.gt_event_date:before,
+.gt_event_des>a:hover,
+/*News Letter Widgets*/
+.gt_newsletter_bg,
+.gt_newsletter_wrap form input:focus + input[type="submit"],
+.gt_newsletter_wrap form input:focus + button,
+.gt_newsletter_wrap input[type="submit"]:hover,.gt_newsletter_wrap button:hover,
+/*Footer Col Widgets Css*/
+.gt_widget_hdg h5:before,
+/*Copyright Css*/
+/*Back to Top Style*/
+.back-to-top a:hover,
+/*Sub Banner Wrap CSS*/
+/*Breadcrumb Wrap CSS*/
+/*Contact List Wrap CSS*/
+/*Contact Form Wrap CSS*/
+.gt_contact_us_field input[type="submit"]:hover,
+.gt_contact_us_field button:hover,
+/*Who We Are Wrap CSS*/
+.gt_who_we_icon:before,
+/*Core Value Wrap Start Wrap Css Start*/
+.gt_core_value_wrap ul li.active a,
+.gt_core_value_wrap ul li:hover a,
+/*Faqs and Terms Wrap CSS*/
+/*Pagination Wrap CSS*/
+.gt_pagination_outer_wrap ul li.active a,
+.gt_pagination_outer_wrap ul li:hover a,
+/*Advance Search Wrap CSS*/
+.gt_advance_search form input[type="submit"],
+.gt_advance_search form button,
+.gt_search_type ul li:hover a,
+/*Campus History Wrap CSS*/
+.gt_history_pagination ul li.flex-active-slide .gt_history_date,
+.gt_history_pagination ul li .gt_history_date:hover,
+.gt_aside_field .chosen-container .chosen-results li.highlighted,
+/*Aside Wrap Css*/
+.gt_aside_field button,
+ul.gt_checkbox_list li input[type="checkbox"]:checked + label span,
+/*Course Detail Wrap CSS*/
+/*Aside 02 Wrap Style*/
+.gt_aside2_hdg>h5,
+.gt_featured_course_list>a,
+.gt_aside_ques_form input[type="submit"],
+.gt_aside_ques_form button,
+/*Blog Grid Wrap CSS*/
+.gt_blog_wrap figure:before,
+.gt_blog_wrap>a:before,
+/*Blog Listing Wrap CSS*/
+.gt_listing_des>a:hover,
+.gt_blog_listing figure:before,
+/*Aside 03 Wrap Style*/
+.gt_aside_search form button,
+/*Aside Newsletter*/
+.gt_aside_newsletter form button,
+/*Blog Single Wrap CSS*/
+.gt_blog_single_wrap .swiper-button-prev:hover,
+.gt_blog_single_wrap .swiper-button-next:hover,
+/*Blog Detail Wrap CSS*/
+/*Classes Wrap Css*/
+.gt_table_head,
+/*Event Grid Wrap Css*/
+.gt_event_grid_des>a:hover,
+.gt_event_grid>figure:before,
+.gt_event_grid:hover .gt_event_grid_date,
+/*Event Detail Wrap Css*/
+.gt_event_d_time>a:hover,
+.gt_event_inside_tab>ul>li:before,
+/*Comming Soon Style*/
+.gt_commming_soon ul.countdown li:nth-child(4),
+.gt_comming_soon_field input[type="submit"], .gt_comming_soon_field button,
+/*Team Detail Style*/
+.bar,
+/*404 Page 02 Style*/
+/*Login and Register*/
+.gt_login_field>label,
+ul.gt_login_link li.active a,
+ul.gt_login_link li:hover a,
+.gt_login_radio_btn input[type="checkbox"]:checked + label span,
+.gt_login_field input[type="submit"]:hover,.gt_login_field button:hover,
+/*Course Listing Wrap CSS*/
+.gt_listing_rating,
+.gt_course_listing_des>a:hover,
+/*Dashboard Css*/
+.gt-usser-account-list ul li:hover a,
+.gt-logout:hover,
+.gt_d_fav_courses ul.gt_d_fav_hdg,
+.slider,
+.gt_d_report_wrap:hover .gt_d_report_icon,
+.gt_d_choose_photo,
+.gt_d_fav_courses ul.gt-shortlisted li:hover,
+/*Shop Detail Page*/
+.gt_cart_element_wrap a:hover,
+.gt_increment button:hover,
+.gt_product_button_wrap button:hover,
+/*Product List Wrap Start*/
+ul.gt_product_ui_element li:hover a
+{
+	background-color:#2dcc70;	
+}
+/*
+	  ============================================================
+		   Border Color
+	  ============================================================
+*/
+.default-btn.style-two,
+.default-btn:hover,
+/*Top Bar Style*/
+/*Cart Item Wrap Style*/
+/*Search Wrap Style*/
+/*Navigation Style*/
+/*Banner CSS*/
+.gt_banner_text>a:hover,
+/*Different Color CSS*/
+.gt_bg_13,
+/*Banner Services Wrap CSS*/
+/*Explore All the Courses Wrap CSS*/
+.gt_courses_slider .owl-dots .owl-dot.active,
+.gt_courses_slider .owl-dots .owl-dot:hover,
+/*Explore All Courses Search Wrap CSS*/
+/*Why Choose Us Wrap CSS*/
+/*Campus Life and Activities Wrap CSS*/
+/*Facts and Figure Wrap CSS*/
+/*Meet Our Teacher Wrap CSS*/
+.gt_team_wrap:hover,
+ul.gt_scl_icon li:hover a,
+.gt_teacher_slider .owl-dots .owl-dot.active,
+.gt_teacher_slider .owl-dots .owl-dot:hover,
+/*Testimonial Wrap CSS*/
+.gt_testimonial_slider .owl-dots .owl-dot.active,
+.gt_testimonial_slider .owl-dots .owl-dot:hover,
+/*Upcomming Conference and Events Wrap CSS*/
+.gt_event_des>a:hover,
+/*News Letter Widgets*/
+/*Footer Col Widgets Css*/
+/*Copyright Css*/
+/*Back to Top Style*/
+/*Sub Banner Wrap CSS*/
+/*Breadcrumb Wrap CSS*/
+/*Contact List Wrap CSS*/
+/*Contact Form Wrap CSS*/
+.gt_contact_us_field input[type="text"]:focus,
+.gt_contact_us_field input[type="email"]:focus,
+.gt_contact_us_field textarea:focus,
+.gt_contact_us_field input[type="submit"]:hover,
+.gt_contact_us_field button:hover,
+/*Who We Are Wrap CSS*/
+/*Core Value Wrap Start Wrap Css Start*/
+.gt_core_value_wrap ul li.active a,
+.gt_core_value_wrap ul li:hover a,
+/*Faqs and Terms Wrap CSS*/
+/*Pagination Wrap CSS*/
+.gt_pagination_outer_wrap ul li.active a,
+.gt_pagination_outer_wrap ul li:hover a,
+/*Advance Search Wrap CSS*/
+.gt_search_type ul li:hover a,
+/*Campus History Wrap CSS*/
+.gt_history_date:before,
+/*Aside Wrap Css*/
+.gt_aside_field input[type="text"]:focus,
+ul.gt_checkbox_list li input[type="checkbox"]:checked + label span,
+ul.gt_aside_fea_course li figure:before,
+/*Course Detail Wrap CSS*/
+/*Aside 02 Wrap Style*/
+.gt_aside_ques_form input[type="text"]:focus,
+.gt_aside_ques_form textarea:focus,
+.gt_dwnload_course:hover,
+.gt_dwnload_course>a:hover>i,
+.gt_play_btn>a:hover,
+/*Blog Grid Wrap CSS*/
+.gt_blog_wrap,
+/*Blog Listing Wrap CSS*/
+/*Aside 03 Wrap Style*/
+.gt_aside_search form input[type="text"]:focus,
+/*Aside Newsletter*/
+.gt_aside_newsletter form input[type="text"]:focus,
+/*Blog Single Wrap CSS*/
+.gt_blog_slider,
+/*Blog Detail Wrap CSS*/
+/*Classes Wrap Css*/
+/*Event Grid Wrap Css*/
+/*Event Detail Wrap Css*/
+.gt_event_d_date,
+.gt_event_inside_tab>ul>li.active>a,.gt_event_inside_tab>ul>li:hover>a,
+/*Comming Soon Style*/
+/*Team Detail Style*/
+.label,
+/*404 Page 02 Style*/
+.gt_404_02_wrap .gt_comming_soon_field input[type="text"]:focus,
+/*Login and Register*/
+ul.gt_login_link li a,
+/*Course Listing Wrap CSS*/
+.gt_course_listing_wrap:hover,
+/*Dashboard Css*/
+.gt_privacy_field input[type="text"]:focus,
+.gt_privacy_field textarea:focus,
+.gt_d_report_wrap:hover,
+.gt_d_courses_wrap:hover,
+/*Shop Detail Page*/
+.gt_shop_tab_link,
+.gt_shop_tab_link ul li.active a,
+.gt_shop_tab_link ul li:hover a,
+.gt_increment button:hover,
+/*Product List Wrap Start*/
+ul.gt_product_ui_element li a
+{
+	border-color:#2dcc70;	
+}
+/*
+	  ============================================================
+		   Transaction Effect
+	  ============================================================
+*/
+/*Top Bar Style*/
+.gt_top_element ul li,
+.gt_top_element ul li a,
+.gt_login_element,
+.gt_login_element a,
+/*Cart Item Wrap Style*/
+.gt_cart_wrap > a,
+.gt_cart_item_wrap,
+.gt_cart_list,
+/*Search Wrap Style*/
+.gt_search_wrap > span.search-fld,
+.search-wrapper-area,
+.gt_search_remove_btn,
+/*Navigation Style*/
+.gt_mobile_menu,
+.icon-bar,
+.gt_navigation ul li,
+.gt_navigation ul li:before,
+.gt_navigation ul li a,
+.gt_cart_list figure i,
+.gt_cart_btn,
+/*Banner CSS*/
+.gt_banner_text>a,
+.gt_banner .swiper-button-next,
+.gt_banner .swiper-button-prev,
+/*Different Color CSS*/
+/*Banner Services Wrap CSS*/
+.gt_banner_service,
+.gt_banner_service:before,
+.gt_banner_service h4>a,
+.gt_banner_service>a,
+/*Explore All the Courses Wrap CSS*/
+.gt_course_search form input[type="search"],
+.gt_course_search form a,
+.gt_courses_wrap,
+.gt_course_author>a,
+.gt_course_cat,
+.gt_course_des h5>a,
+.gt_course_bottom>a,
+.gt_courses_slider .owl-dots .owl-dot,
+/*Explore All Courses Search Wrap CSS*/
+.chosen-container .chosen-results li.highlighted,
+.gt_explore_search input[type="submit"],
+.gt_explore_search button,
+/*Why Choose Us Wrap CSS*/
+.gt_choose_des h6>a,
+.gt_choose_des p,
+/*Campus Life and Activities Wrap CSS*/
+.gt_gallery_style1:before,
+.gt_gallery_style1_des,
+.gt_gallery_style1_des ul a,
+/*Facts and Figure Wrap CSS*/
+/*Meet Our Teacher Wrap CSS*/
+.gt_team_wrap,
+.gt_team_wrap img,
+.gt_team_des h6>a,
+ul.gt_scl_icon li a,
+/*Testimonial Wrap CSS*/
+.gt_testimonial_des h5 > a,
+/*Upcomming Conference and Events Wrap CSS*/
+.gt_event_date,
+.gt_event_date:before,
+.gt_event_date h3,
+.gt_event_date>span,
+.gt_event_des h4>a,
+ul.gt_event_meta li,
+.gt_event_des>a,
+/*News Letter Widgets*/
+.gt_newsletter_wrap form input,
+.gt_newsletter_wrap input[type="submit"],.gt_newsletter_wrap button,
+/*Footer Col Widgets Css*/
+.gt_foo_about ul li,
+.gt_foo_about ul li:before,
+.gt_foo_about ul li a,
+/*Copyright Css*/
+.gt_copyright_des a,
+/*Back to Top Style*/
+.back-to-top a:hover,
+/*Sub Banner Wrap CSS*/
+/*Breadcrumb Wrap CSS*/
+.gt_breadcrumb_wrap ul li a,
+/*Contact List Wrap CSS*/
+/*Contact Form Wrap CSS*/
+.gt_contact_us_field input[type="text"],
+.gt_contact_us_field input[type="email"],
+.gt_contact_us_field textarea,
+.gt_contact_us_field input[type="submit"],
+.gt_contact_us_field button,
+/*Who We Are Wrap CSS*/
+.gt_who_we_img:before,.gt_who_we_img:after,
+.gt_who_we_icon,
+.gt_who_we_icon:before,
+.gt_who_we_des h6>a,
+/*Core Value Wrap Start Wrap Css Start*/
+.gt_core_value_wrap ul li a,
+/*Faqs and Terms Wrap CSS*/
+/*Pagination Wrap CSS*/
+.gt_pagination_outer_wrap ul li a,
+/*Advance Search Wrap CSS*/
+.gt_advance_search form input[type="submit"],.gt_advance_search form button,
+.gt_search_type ul li a,
+.gt_search_format ul li a,
+.gt_search_format ul li a,
+/*Campus History Wrap CSS*/
+.gt_history_date,
+.gt_history_date:before,
+/*Aside Wrap Css*/
+.gt_aside_field input[type="text"],
+.gt_aside_field button,
+.gt_aside_field button>i,
+ul.gt_checkbox_list li input[type="checkbox"],
+ul.gt_checkbox_list li input[type="radio"],
+ul.gt_checkbox_list li label,
+ul.gt_checkbox_list li label span,
+ul.gt_aside_fea_course li figure:before,
+.aside_fea_course_des h6>a,
+/*Course Detail Wrap CSS*/
+/*Aside 02 Wrap Style*/
+.gt_featured_course_list>a,
+.gt_aside_category ul li,
+.gt_aside_category ul li:before,
+.gt_aside_category ul li a,
+.gt_aside_category ul li span,
+.gt_aside_ques_form input[type="text"],
+.gt_aside_ques_form textarea,
+.gt_aside_ques_form input[type="submit"],.gt_aside_ques_form button,
+.gt_dwnload_course,
+.gt_dwnload_course>a,
+.gt_dwnload_course>a>i,
+.gt_dwnload_course>a>span,
+.gt_play_btn>a,
+/*Blog Grid Wrap CSS*/
+.gt_blog_wrap figure:before,
+.gt_blog_des,
+.gt_blog_des>h6>a,
+.gt_blog_wrap>a,
+.gt_blog_wrap>a>i,
+.gt_blog_wrap>a:before,
+/*Blog Listing Wrap CSS*/
+.gt_listing_des>h6>a,
+.gt_listing_des>a,
+.gt_blog_listing figure:before,
+.gt_listing_share_wrap ul.gt_scl_icon,
+/*Aside 03 Wrap Style*/
+.gt_aside_search form input[type="text"],
+.gt_aside_search form button,
+/*Aside Newsletter*/
+.gt_aside_newsletter form input[type="text"],
+.gt_aside_newsletter form button,
+.gt_foo_instagram ul li a img,
+/*Blog Single Wrap CSS*/
+.gt_blog_single_wrap .swiper-button-prev,
+.gt_blog_single_wrap .swiper-button-next,
+/*Blog Detail Wrap CSS*/
+.default_width>ul>li>a,
+.gt_comment_date>a,
+.gt_comment_des h6 > a,
+/*Classes Wrap Css*/
+.card-container:before,
+/*Event Grid Wrap Css*/
+.gt_event_grid,
+.gt_event_grid_des>a,
+.gt_event_grid figure:before,
+.gt_event_grid_date,
+.gt_event_grid_date>span,
+/*Event List Wrap Css*/
+/*Event Detail Wrap Css*/
+.gt_event_d_date,
+.gt_event_d_time>a,
+.gt_event_inside_tab>ul>li:hover>a,
+.gt_event_inside_tab>ul>li:before,
+.gt_event_inside_tab>ul>li>a,
+/*Comming Soon Style*/
+.gt_comming_soon_field input[type="submit"], .gt_comming_soon_field button,
+.gt_comming_scl_wrap>p>a,
+/*Team Detail Style*/
+/*404 Page 02 Style*/
+.gt_404_02_wrap>a,
+.gt_404_02_wrap .gt_comming_soon_field input[type="text"],
+/*Login and Register*/
+ul.gt_login_link li a,
+.gt_login_field>label,
+.gt_login_field input[type="submit"],.gt_login_field button,
+/*Course Listing Wrap CSS*/
+.gt_course_listing_wrap,
+.gt_course_listing_wrap figure img,
+ul.gt_event_meta li a,
+.gt_course_listing_des>a,
+/*Dashboard Css*/
+.gt-usser-account-list ul li,
+.gt-usser-account-list ul li a,
+.gt-usser-account-list ul li a i,
+.gt-usser-account-list ul li a:after,
+.gt-logout,
+.gt-logout i,
+.gt_d_classes_des>h6>a,
+.gt_d_fav_courses ul.gt-shortlisted li .gt-text h5 a,
+.gt_d_fav_courses ul.gt-shortlisted li a.gt-remove-btn, 
+.gt_d_fav_courses ul.gt-shortlisted li a.gt-update-btn,
+.slider:before,
+.slider,
+.slider>span,
+.gt_privacy_field input[type="text"],
+.gt_privacy_field textarea,
+.gt_privacy_field input[type="submit"],.gt_privacy_field button,
+.gt_d_report_wrap,
+.gt_d_report_icon,
+.gt_d_report_des>h6>a,
+.gt_d_download_icon,
+.gt_d_courses_wrap,
+.gt_d_courses_wrap figure img,
+.gt_d_fav_courses ul.gt-shortlisted li,
+em,
+/*Shop Detail Page*/
+.gt_shop_tab_link ul li,
+.gt_shop_tab_link ul li a,
+.gt_increment button,
+.gt_product_button_wrap button,
+.gt_cart_element_wrap a,
+/*Product List Wrap Start*/
+.gt_overlay_wrap,
+.gt_product_outer_wrap,
+.gt_product_outer_wrap figure,
+.gt_product_outer_wrap figure img,
+.gt_product_img_des,
+.gt_product_img_des p,
+.gt_product_des_wrap,
+.gt_product_des_wrap > span,
+.gt_product_des_wrap h5 > a,
+ul.gt_product_ui_element li a,
+ul.gt_product_ui_element li a i
+{
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-o-transition:all 0.3s ease-in-out;
+}
+/*
+	  ============================================================
+		   Transform Border
+	  ============================================================
+*/
+.gt_course_listing_wrap:hover>figure>img,
+.gt_d_courses_wrap:hover figure img{
+	transform:scale(1.2) rotateZ(-6deg);
+	-moz-transform:scale(1.2) rotateZ(-6deg);
+	-webkit-transform:scale(1.2) rotateZ(-6deg);
+	-ms-transform:scale(1.2) rotateZ(-6deg);
+}
+/*
+	  ============================================================
+		  Content Selection
+	  ============================================================
+*/
+::selection {
+    background: #2dcc70;
+    color:#ffffff;
+}
+::-webkit-selection {
+    background: #2dcc70;
+    color: #ffffff;
+}
+::-moz-selection {
+    background: #2dcc70;
+    color: #ffffff;
+}

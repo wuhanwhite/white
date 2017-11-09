@@ -1,0 +1,192 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?oy3331');
+  src:  url('../fonts/icomoon.eot?oy3331#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?oy3331') format('truetype'),
+    url('../fonts/icomoon.woff?oy3331') format('woff'),
+    url('../fonts/icomoon.svg?oy3331#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrows:before {
+  content: "\e900";
+}
+.icon-arrows-1:before {
+  content: "\e901";
+}
+.icon-arrows-2:before {
+  content: "\e902";
+}
+.icon-avatar:before {
+  content: "\e903";
+}
+.icon-book:before {
+  content: "\e904";
+}
+.icon-books-stack-from-top-view:before {
+  content: "\e905";
+}
+.icon-business:before {
+  content: "\e906";
+}
+.icon-circle:before {
+  content: "\e907";
+}
+.icon-classroom-with-students-group-and-the-teacher:before {
+  content: "\e908";
+}
+.icon-clock:before {
+  content: "\e909";
+}
+.icon-clock-1:before {
+  content: "\e90a";
+}
+.icon-clock-2:before {
+  content: "\e90b";
+}
+.icon-commerce:before {
+  content: "\e90c";
+}
+.icon-commerce-1:before {
+  content: "\e90d";
+}
+.icon-computer:before {
+  content: "\e90e";
+}
+.icon-computer-1:before {
+  content: "\e90f";
+}
+.icon-cup:before {
+  content: "\e910";
+}
+.icon-cup-1:before {
+  content: "\e911";
+}
+.icon-delete:before {
+  content: "\e912";
+}
+.icon-delete-1:before {
+  content: "\e913";
+}
+.icon-diploma:before {
+  content: "\e914";
+}
+.icon-draw:before {
+  content: "\e915";
+}
+.icon-education:before {
+  content: "\e916";
+}
+.icon-education-1:before {
+  content: "\e917";
+}
+.icon-email-opened-envelope:before {
+  content: "\e918";
+}
+.icon-gps:before {
+  content: "\e919";
+}
+.icon-halloween-spider:before {
+  content: "\e91a";
+}
+.icon-learning:before {
+  content: "\e91b";
+}
+.icon-link:before {
+  content: "\e91c";
+}
+.icon-location:before {
+  content: "\e91d";
+}
+.icon-lock:before {
+  content: "\e91e";
+}
+.icon-medal:before {
+  content: "\e91f";
+}
+.icon-nature:before {
+  content: "\e920";
+}
+.icon-newsletter:before {
+  content: "\e921";
+}
+.icon-next:before {
+  content: "\e922";
+}
+.icon-null:before {
+  content: "\e923";
+}
+.icon-null-1:before {
+  content: "\e924";
+}
+.icon-open-book:before {
+  content: "\e925";
+}
+.icon-people:before {
+  content: "\e926";
+}
+.icon-people-1:before {
+  content: "\e927";
+}
+.icon-people-2:before {
+  content: "\e928";
+}
+.icon-phone:before {
+  content: "\e929";
+}
+.icon-pin:before {
+  content: "\e92a";
+}
+.icon-school:before {
+  content: "\e92b";
+}
+.icon-send-message-button:before {
+  content: "\e92c";
+}
+.icon-sports:before {
+  content: "\e92d";
+}
+.icon-square:before {
+  content: "\e92e";
+}
+.icon-student:before {
+  content: "\e92f";
+}
+.icon-suitcase:before {
+  content: "\e930";
+}
+.icon-teacher-pointing-blackboard:before {
+  content: "\e931";
+}
+.icon-technology:before {
+  content: "\e932";
+}
+.icon-telephone:before {
+  content: "\e933";
+}
+.icon-three:before {
+  content: "\e934";
+}
+.icon-tool:before {
+  content: "\e935";
+}
+.icon-tool-1:before {
+  content: "\e936";
+}
+

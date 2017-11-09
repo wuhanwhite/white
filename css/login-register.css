@@ -1,0 +1,36 @@
+.gt_lgin_tab_wrap{width: 400px;margin: auto;border: 1px solid #e0e0e0;border-radius: 5px;overflow: hidden;}
+ul.gt_login_link{float: left;width: 100%;text-align: center;}
+ul.gt_login_link li{width: 50%;float: left;}
+ul.gt_login_link li a{display: block;font-size: 18px;color: #ffffff;text-transform: capitalize;border-bottom: 3px solid;background-color: #4d4d4d;padding: 15px 0px;}
+.gt_login_des_wrap{padding: 20px;}
+.gt_login_field,.gt_login_radio_btn{float: left;width: 100%;position: relative;}
+.gt_login_field input[type="text"]{width: 100%;height: 45px;border-radius: 50px;background-color: #4d4d4d;padding: 8px 10px 8px 60px;color: #f2f2f2;margin-bottom: 15px;}
+.gt_login_field>label{position: absolute;height: 43px;width: 50px;text-align: center;color: #ffffff;top: 1px;left: 0px;margin: 0px;line-height: 44px;font-size: 18px;border-top-left-radius: 50px;border-bottom-left-radius: 50px;}
+.gt_login_radio_btn{padding-left: 15px;margin-bottom: 5px;}
+.gt_login_radio_btn input[type="checkbox"] {
+    display:none;}
+.gt_login_radio_btn label{cursor: pointer;}
+.gt_login_radio_btn input[type="checkbox"] + label span {display:inline-block;width:13px;
+    height:13px;margin:-1px 10px 0 0;border:2px solid #666;border-radius:100%;cursor:pointer;margin-top: 4px;font-weight:bold;}
+.gt_login_field input[type="submit"],.gt_login_field button{width: 100%;background-color: #4D4D4D;padding: 15px 0px;border-radius: 50px;text-align: center;text-transform: uppercase;color: #ffffff;font-size: 16px;border: 0px;}
+.gt_login_field>p{color: #4d4d4d;text-align: center;margin: 15px 0px 15px;}
+.gt_login_field ul.gt_scl_icon li{display: inline-block;width: auto;}
+.gt_login_field ul.gt_scl_icon li a{border-color: transparent;width: 40px;height: 40px;line-height: 40px;color: #ffffff}
+
+
+.gt-user-login{margin-right: 12px;}
+.gt-user-login .gt-media{display:inline-block;vertical-align:top;margin-right:9px;width:22px;height:22px;border-radius:100%;}
+.gt-user-login .gt-media img{width:100%;border-radius:100%;}
+.gt-user-login > a{position:relative;display:inline-block;color: #fff;}
+.gt-user-login > a:after{content:"\f107";font-family: 'fontawesome';position:absolute;right:-16px;top:3px;color:#fff;}
+.gt_hdr_2_ui_element ul li ul{width:229px;position:absolute;top:100%;left:-10px;z-index:-1;opacity:0;visibility:hidden;transform:translateY(40px);-moz-transform:translateY(40px);-webkit-transform:translateY(40px);text-align:left;background-color: #333333;}
+.gt_hdr_2_ui_element ul li ul li{padding:12px 12px;border-bottom:solid 1px rgba(255,255,255,0.2);display:block;position:relative;}
+.gt_hdr_2_ui_element ul li ul li:after{content:"\e90d";font-family: 'icomoon';position:absolute;right:10px;top:11px;opacity:0;visibility:hidden;color: #333333;}
+.gt_hdr_2_ui_element ul li ul li.active:after{opacity:1;visibility:visible;}
+.gt_hdr_2_ui_element ul li ul li:hover:after{opacity:1;visibility:visible;}
+.gt_hdr_2_ui_element ul li ul li a{font-size:12px;font-weight:700;display:block;color:#fff;}
+.gt_hdr_2_ui_element ul li ul li a i{font-size:15px;}
+.gt_hdr_2_ui_element ul li:hover ul{opacity:1;visibility:visible;transform:translateY(10px);-webkit-transform:translateY(10px);-moz-transform:translateY(10px);z-index:999;}
+.gt_hdr_2_ui_element ul li ul li:hover{background-color: #fff;}
+.gt_hdr_2_ui_element ul li ul li:hover a{color: #333333;}
+.gt_hdr_2_ui_element ul li ul li:last-child{border-bottom: 0px;}

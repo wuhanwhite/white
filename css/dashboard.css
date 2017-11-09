@@ -1,0 +1,161 @@
+.gt-user-sidebar{float: left;width: 100%;position: relative;}
+/*Dashboard Sidebar Css*/
+/* User Account list Style Start */
+ .gt-usser-account-list{ background-color: #ffffff;border-radius: 5px;float:left;width:100%;position:relative;}
+ .gt-usser-account-list ul { margin:0; padding:0;}
+ .gt-usser-account-list ul li{ padding:0 0; margin:0; list-style:none; border-bottom:2px solid #eeeeee;}
+ .gt-usser-account-list ul li a{ outline:none; text-decoration:none; text-transform:uppercase; font-size:15px; color:#666666; font-weight:600; display:block; position:relative;}
+ .gt-usser-account-list ul li a:after{ content:'\e922';font-family:'icomoon';position:absolute; right:40px;top:38%;font-size:11px;line-height:15px; visibility:hidden; opacity:0;}
+ .gt-usser-account-list ul li:hover a:after,
+ .gt-usser-account-list ul li.active a:after{ opacity:1; visibility:visible; right:10px;}
+ .gt-usser-account-list ul li a i{ display:inline-block; font-size:20px; vertical-align:middle;padding: 16px 0px;width: 55px;text-align: center;margin-right: 10px;border-right: 2px solid #eeeeee;}
+ .gt-logout{outline:none; text-decoration:none; text-transform:uppercase; font-size:15px; color:#666666; font-weight:600; display:block; position:relative;}
+ .gt-logout i{ display:inline-block; font-size:16px; vertical-align:middle;padding: 18px 0px;width: 55px;text-align: center;margin-right: 10px;border-right: 2px solid #eeeeee;}
+ .gt-logout:after{ content:'\e90d'; font-family:'icomoon'; position:absolute; right:40px; top:41%; font-size:11px; line-height:15px; visibility:hidden; opacity:0;}
+ .gt-logout:hover:after{ opacity:1; visibility:visible; right:10px;}
+ /*Hover*/
+ .gt-usser-account-list ul li:hover a,.gt-logout:hover{color: #ffffff;}
+
+ /*Author Image Css*/
+ .gt_d_author_wrap{float:left;width:100%;position:relative;margin: 0px 0px 15px;	background-color: #ffffff;border-radius: 5px;padding: 15px;}
+.gt_d_author_pic{float:left;width:82px;}
+.gt_d_author_pic figure{border-radius: 5px;}
+.gt_d_author_pic figure img{width:100%;height:auto;}
+.gt_d_author_pic_des{float:none;padding:0px 0 0 95px;width:auto;}
+.gt_d_author_pic_des>h5{text-transform: uppercase;font-weight: 600;margin: 0px 0px 5px;font-weight: bold;}
+.gt_hdg_span{width: 30px;display: inline-block;position: relative;height: 2px;background-color: #3fb9da;box-shadow: -31px 0px 0px 0px #595959;left: 32px;margin: 0px 0px 5px;}
+.gt_d_author_pic_des>p{color: #666666;line-height: normal;font-weight: 600;margin: 0px 0px 5px;font-size: 16px;}
+.gt_d_author_pic_des>label{color: #999999;margin: 0px;font-size: 16px;}
+.gt_d_author_sbj{float: left;width: 100%;}
+.gt_d_author_sbj>h6{font-size: 16px;margin: 0px 0px 5px;color: #666666;font-weight: bold;}
+.gt_d_author_sbj>span{font-size: 16px;margin: 0px 0px 5px;color: #999999;display: block;}
+
+/*---------------------------------------- 
+  Dashboard Classes Css
+------------------------------------------*/
+.gt_d_classes_wrap{background-color: #ffffff;border-radius: 5px;padding: 15px;}
+h4.gt_d_title{text-transform: uppercase;font-weight: 600;margin: 0px 0px 15px;font-weight: bold;}
+
+/*---------------------------------------- 
+  Dashboard Courses Css
+------------------------------------------*/
+.gt_d_courses_wrap{border: 1px solid #ededed;}
+.gt_d_courses_wrap>figure{width: 30%;}
+.gt_d_courses_wrap>figure>img{width: 100%;height: auto;}
+.gt_d_courses_wrap>figure .gt_listing_rating{right: 0px;padding: 5px 5px 5px 10px;}
+.gt_d_courses_wrap>figure .gt_listing_rating:before{background-color: transparent;}
+.gt_d_courses_wrap>figure .gt_listing_rating:after{display: none;}
+.gt_listing_rating{color: #ffffff;}
+.gt_d_classes_des{width: 70%;float: left;padding: 15px;}
+.gt_d_classes_des>h6>a{display: block;color: #666666;text-transform: capitalize;font-weight: 600;margin: 0px 0px 10px;}
+.gt_d_classes_des>ul{width: 100%;float: left;margin: 0px 0px 10px;}
+.gt_d_classes_des>ul>li{display: inline-block;position: relative;padding: 0px 8px;color: #999999;line-height: normal;}
+.gt_d_classes_des>ul>li:first-child{margin-left: 0px;}
+.gt_d_classes_des>ul>li>ul.gt_rating_star li a{position: relative;top: 4px;}
+.gt_d_classes_des>p{color: #999999;}
+
+/*---------------------------------------- 
+  User Short Listed Style Start 
+------------------------------------------*/
+ .gt_d_fav_courses ul.gt-shortlisted{float: left;width: 100%;border-radius: 5px;border: 1px solid #e3e3e3;}
+ .gt_d_fav_courses ul.gt_d_fav_hdg{float: left;width: 100%;position: relative;padding: 15px;}
+ .gt_d_fav_courses ul.gt_d_fav_hdg li{float: left;color: #ffffff;font-size: 16px;text-transform: uppercase;}
+.gt_d_fav_courses ul.gt_d_fav_hdg li:first-child{width: 85%;}
+.gt_d_fav_courses ul.gt_d_fav_hdg li:last-child{width: 15%;text-align: center;}
+ .gt_d_fav_courses ul.gt-shortlisted li{padding: 15px; position: relative;float: left;width: 100%;}
+  .gt_d_fav_courses ul.gt-shortlisted li:nth-child(odd){background-color: #f5f5f5;}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-media{float: left; margin-right: 30px; width:118px;}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-media img{ width:100%;}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-text{overflow: hidden; padding-right:15%;}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-text h5{ margin-bottom:3px;}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-text h5 a{margin:0 0px 8px; outline:none; font-weight:600;font-size: 16px;display: block;}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-text .gt-rating{display:block; margin-bottom:8px;}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-text .rating-star{display: inline-block; width: 82px; vertical-align: middle;position: relative; height: 20px; line-height: 19px;}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-text .rating-star:before, 
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-text .rating-box:before{color: rgba(0, 0, 0, 0.4); content: "\f005 \f005\f005\f005\f005";font-family: "fontawesome"; font-size:16px; left: 0; letter-spacing: 1px; position: absolute; top: -2px;}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-text .gt-rating em{ font-style:normal; color:#666666; display:inline-block; vertical-align:top;font-weight: 600;}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-text .rating-box:before{color: #fea21f; content: "\f005 \f005\f005\f005\f005";}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-text .rating-box{ height: 20px; left: 0; overflow: hidden; position: absolute;top: 0;}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-text .gt-user-name{ font-weight:700; font-family: 'Montserrat', sans-serif; font-size:14px;}
+ .gt_d_fav_courses ul.gt-shortlisted li .gt-text .gt-user-name em{ font-style:normal; padding:0; color:#666666;}
+ .gt_d_fav_courses ul.gt-shortlisted li a.gt-remove-btn,.gt_d_fav_courses ul.gt-shortlisted li a.gt-update-btn{color: #fff; line-height: 30px; border-radius: 3px;position: absolute; top: 40%; background:#808080;width: 30px;height: 30px;text-align: center;}
+ .gt_d_fav_courses ul.gt-shortlisted li a.gt-remove-btn{right: 20px}
+  .gt_d_fav_courses ul.gt-shortlisted li a.gt-update-btn{right: 55px;}
+/*Hover*/
+.gt_d_fav_courses ul.gt-shortlisted li:hover .gt-rating em,
+.gt_d_fav_courses ul.gt-shortlisted li:hover .gt-text h5,
+.gt_d_fav_courses ul.gt-shortlisted li:hover .gt-text span,
+.gt_d_fav_courses ul.gt-shortlisted li:hover .gt-text h5 a,
+.gt_d_fav_courses ul.gt-shortlisted li .gt-text h5 a:hover,
+.gt_d_fav_courses ul.gt-shortlisted li:hover .gt-text .gt-user-name em{color: #ffffff;}
+.gt_d_fav_courses ul.gt-shortlisted li a.gt-remove-btn:hover,
+.gt_d_fav_courses ul.gt-shortlisted li a.gt-update-btn:hover{background-color: #000000;}
+/*---------------------------------------- 
+  	My Profile Style Start 
+------------------------------------------*/
+.gt_d_profile_wrap{margin-bottom: 30px;}
+.gt_d_profile_wrap>figure{width: 40%;}
+.gt_d_profile_wrap>figure>img{width: 100%;height: auto;}
+.gt_d_profile_detail{width: 60%;padding-left: 15px;float: left;}
+.gt_d_profile_detail>ul{width: 100%;float: left;}
+.gt_d_profile_detail>ul>li{width: 100%;float: left;position: relative;padding:15px 0px;border-bottom: 1px solid #efefef;}
+.gt_d_profile_detail>ul>li>span{color: #999999;font-weight: 600;margin-right: 15px;display: inline-block;line-height: normal;}
+.gt_d_profile_detail>ul>li>p{margin: 0px;display: inline-block;line-height: normal;color: #999999;}
+.gt_d_about_author{border-bottom: 1px solid #efefef;margin: 0px 0px 30px;padding: 0px 0px 15px;}
+p.d_bold{font-weight: bold;color: #666666;}
+.gt_d_people_view>figure{width: 80px;}
+.gt_d_people_view>figure>img{width: 100%;height: auto;}
+.gt_d_people_view_des{float: none;padding: 0px 0px 0px 105px;width: auto;}
+.gt_d_people_view_des>h6{font-weight: bold;margin: 0px 0px 5px;text-transform: uppercase;}
+.gt_d_people_view_des>ul{width: 100%;margin: 0px 0px 5px;}
+/*---------------------------------------- 
+  	Privacy Policy Style Start 
+------------------------------------------*/
+.gt_privacy_field>input[type="text"],.gt_privacy_field textarea{float: left;width: 100%;border: 1px solid rgba(127,127,127,0.21);border-radius: 2px; min-height: 48px;padding: 8px 20px 8px 20px;border-radius: 40px;background-color: #f5f5f5;position: relative;}
+.gt_privacy_field input[type="submit"],.gt_privacy_field button{border: 0px;font-size: 16px;color: #ffffff;text-transform: uppercase;padding: 15px 40px;background-color: #222222;border-radius: 50px;}
+.gt_privacy_field textarea {min-height: 185px;resize: none;padding: 20px 30px;border-radius: 30px;}
+.switch {position: absolute;top: 0px;right: 10px;bottom: 0px;margin: auto;display: inline-block;width: 100px;height: 30px;}
+.switch input {display:none;}
+.slider {position: absolute;cursor: pointer;top: 0;left: 0;right: 0;bottom: 0;}
+.slider>span{color: #ffffff;text-transform: capitalize;position: absolute;left: 42px;top: 5px;}
+.slider:before {position: absolute;content: "";height: 20px;width: 20px;left: 6px;bottom: 5px;background-color: #ffffff;}
+
+.switch input:checked + .slider {background-color: #666666;}
+.switch input:focus + .slider {box-shadow: 0 0 1px #2196F3;}
+.switch input:checked + .slider>span{left: 15px;}
+.switch input:checked + .slider:before {-webkit-transform: translateX(70px);-ms-transform: translateX(70px);transform: translateX(70px);}
+/* Rounded sliders */
+.slider.round {border-radius: 34px;}
+.slider.round:before {border-radius: 50%;}
+/*---------------------------------------- 
+  	profile Setting Style Start 
+------------------------------------------*/
+.gt_d_upload_photo{border-top: 1px solid #ededed;padding-top: 30px;margin-bottom: 30px;}
+.gt_d_upload_area{height: 200px;background-color: #f7f7f7;text-align: center;padding-top: 23%;border-radius: 5px;overflow: hidden;margin: 0px 0px 10px;}
+.gt_d_upload_area>span>i{display: block;margin-bottom: 15px;font-size: 20px;}
+.gt_d_upload_area>span{color: #333333;font-size: 16px;text-transform: capitalize;display: block;vertical-align: middle;font-weight: bold;}
+p.gt_d_download_icon{position: absolute;bottom: 0px;right: 0px;text-align: center;color: #ffffff;margin: 0px;width: 0;height: 0;border-bottom: 60px solid #2dcc70;border-left: 65px solid transparent;display: inline-block;}
+p.gt_d_download_icon>i{position: relative;z-index: 10;left: -25px;top: 30px;}
+.gt_d_scl_setting{border-top: 1px solid #ededed;padding-top: 30px;}
+.gt_d_upload_photo>span{display: block;color: #333333;font-size: 16px;margin: 5px 0px 0px;}
+.gt_d_upload_photo>span>em{font-style: normal;}
+
+.gt_d_choose_photo{font-size: 24px;text-transform: uppercase;font-weight: 600;padding: 15px 0px;text-align: center;color: #ffffff;border-radius: 5px;}
+/*Chossen CSS*/
+.gt_privacy_field .chosen-container-single .chosen-single{height: 48px;background: #f5f5f5;box-shadow: none;border: 1px solid rgba(127,127,127,0.21);border-radius: 50px;width: 100%;padding: 10px 20px;}
+.gt_privacy_field .chosen-container-single .chosen-single span{color: #999999;font-size: 14px;}
+.gt_privacy_field .chosen-container-single .chosen-single div{background-color: transparent;}
+.gt_privacy_field .chosen-container-single .chosen-single div b::before{color: #999999;font-weight: 500;top:11px;height: 6px;}
+.gt_privacy_field .chosen-container-single .chosen-drop{border-radius:12px 12px 4px 4px; }
+.gt_privacy_field .chosen-container .chosen-results{float: left;width: 100%;}
+
+/*---------------------------------------- 
+  	Reward and Achievement Style Start 
+------------------------------------------*/
+.gt_d_report_wrap{border: 1px solid #efefef;padding: 15px;border-radius: 5px;}
+.gt_d_report_icon{width: 100px;height: 110px;background-color: #f5f5f5;line-height: 100px;font-size: 60px;color: #666666;text-align: center;float: left;border-radius: 5px;}
+.gt_d_report_des{float: none;padding: 0px 0px 0px 125px;width: auto;}
+.gt_d_report_des>h6>a{display: block;color: #222222;font-weight: bold;font-size: 16px;text-transform: capitalize;margin: 0px 0px 5px;}
+.gt_d_report_des>p{margin-bottom: 0px;}
+/*Hover*/
+.gt_d_report_wrap:hover .gt_d_report_icon {color: #ffffff;}

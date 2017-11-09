@@ -1,0 +1,36 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&subset=latin-ext';
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&subset=cyrillic,cyrillic-ext,latin-ext');
+/*
+    font-family: 'PT Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
+*/
+*{box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-o-box-sizing:border-box;-ms-box-sizing:border-box;	}
+body {color: #666666;font-family: 'PT Sans', sans-serif;font-size: 14px;font-weight: normal;background-color: #ffffff;}
+/* Heading Typo */
+body h1, body h2, body h3, body h4, body h5, body h6 {color: #222222;font-family: 'Raleway', sans-serif;font-style: normal;font-weight: 400;line-height: 1.2;margin: 0px 0px 0px 0px;}
+h1 {font-size: 62px;}
+h2 { font-size: 50px;}
+h3 {font-size: 30px;}
+h4 {font-size: 24px;}
+h5 {font-size: 22px;}
+h6 {font-size: 18px;}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color: #222222;}
+p a {color: #999999;}
+/* Peragraph Typo */
+p {letter-spacing: 0.2px;line-height: 24px;color:#999999;font-size:14px;font-family: 'PT Sans', sans-serif;}
+a {color: #222222;text-decoration: none;font-family: 'PT Sans', sans-serif;}
+img {max-width: 100%;}
+::-webkit-input-placeholder {color: #999999; opacity: 1;}
+:-moz-placeholder { color: #999999; opacity: 1; }
+::-moz-placeholder { color: #999999; opacity: 1; }
+input:-ms-input-placeholder {color: #999999; opacity: 1;}
+
+.ph_news::-webkit-input-placeholder {color: #666666; opacity: 1;font-size: 14px;text-transform: uppercase;font-weight: 600;}
+.ph_news:-moz-placeholder { color: #666666; opacity: 1; font-size: 14px;text-transform: uppercase;font-weight: 600;}
+.ph_news::-moz-placeholder { color: #666666; opacity: 1; font-size: 14px;text-transform: uppercase;font-weight: 600;}
+input.ph_news:-ms-input-placeholder {color: #666666; opacity: 1;font-size: 14px;text-transform: uppercase;font-weight: 600;}
+
+.p_sub::-webkit-input-placeholder {color: #ffffff; opacity: 1;font-size: 14px;text-transform: uppercase;font-weight: 600;}
+.p_sub:-moz-placeholder { color: #ffffff; opacity: 1; font-size: 14px;text-transform: uppercase;font-weight: 600;}
+.p_sub::-moz-placeholder { color: #ffffff; opacity: 1; font-size: 14px;text-transform: uppercase;font-weight: 600;}
+input.p_sub:-ms-input-placeholder {color: #ffffff; opacity: 1;font-size: 14px;text-transform: uppercase;font-weight: 600;}
