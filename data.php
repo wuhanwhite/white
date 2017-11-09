@@ -3,9 +3,9 @@
     // 引入文字识别OCR SDK
 			require_once './AipOcr.php';
     // 定义常量
-		const APP_ID = '10281928';
-		const API_KEY = 'iSNBhse9UZhLSipOgr0YR4oL';
-		const SECRET_KEY = 'RSGhkQvgSeEe3GkzD2EDID6eMTp36LUD';
+		const APP_ID = 'your appid';
+		const API_KEY = 'your apI_key';
+		const SECRET_KEY = 'your SECRET_KEY';
 			
     const mui_tag1='<!DOCTYPE html>
 <html>
